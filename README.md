@@ -5,7 +5,7 @@
 </p>
 
 ## 📜 Description:
-Developed a clone of **"Google Meet"**. Used 
+Developed a clone of **"Google Meet"**. Used WebRTC to establish peer-to-peer connection and used Firebase real-time database. Currently can accomodate upto 12 users, in progress to increase the capacity. Used Netlify to deploy the webapp. 
 
 ## 📽 Sample Demo:
 
